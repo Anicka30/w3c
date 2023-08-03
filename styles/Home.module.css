@@ -1,0 +1,28 @@
+.main,.pic,.sub{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 100dvh;
+  padding: auto;
+  font-size:xx-large;
+  color: #fffefe;
+}
+
+.pic{ 
+  width:40%;
+  
+}
+
+.sub{
+  width:60%;
+  align-items:center;
+  justify-content: center;
+  
+
+}
+
+#id{
+  text-align: center;
+}
+
+
